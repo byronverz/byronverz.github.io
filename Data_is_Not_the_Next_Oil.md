@@ -1,4 +1,4 @@
-#Data is Not the Next Oil
+# Data is Not the Next Oil
 #### Byron Verzmoter
 If you work in any technology focused industry or pay attention to the development of technologies, 
 you’ve probably heard the phrase “data is the next oil”. It was originally coined by Clive Humby back 
