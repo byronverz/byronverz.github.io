@@ -2,4 +2,4 @@
 #### I like to write about data, AI and the technological future that can still be.
 Blogs about data:
 - Data:
-    - [Data is Not the Next Oil](byronverz.github.io/Data/Data_is_Not_the_Next_Oil.md)
+    - [Data is Not the Next Oil](https://byronverz.github.io/byronverz.github.io/Data/Data_is_Not_the_Next_Oil.md)
