@@ -28,7 +28,7 @@ But let’s get into why data is not the next oil because it really is so much m
 Firstly, data (in the context of this article) represents people. When you deal with people, things get very complicated
 very fast. When working on data processing or even collection strategies, I find myself absent mindedly assuming that 
 people will behave in some way that fits my biases. This is usually tempered with a moment of sonder a little while later
-and I realize that each and every person has a life as rich, unique and envigorating as mine, so the way I handle data
+and I realize that each and every person has a life as rich, unique and invigorating as mine, so the way I handle data
 needs to accommodate for that. Now we can structure technologies to only allow for certain use patterns, but even then, 
 someone will fit those patterns and still throw your assumptions out of the window. This uniqueness is a principle reason
 why our data should not be treated as a commodity.
