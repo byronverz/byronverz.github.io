@@ -9,7 +9,7 @@ Now I am in no way implying that Mr. Humby is to blame for the unscrupulous deve
 much of Big Tech, simply that the phrase has played the role of the scapegoat for many a nefarious character. 
 
 I would like to preface this by saying that when I refer to 'data' in this piece, I am referring to data generated or 
-measured off of people. Human actions that generate measured information representing some aspect of a person, action
+measured off of people. Human actions that generate measured information representing some aspect of a person, action,
 or behaviour. I realize that there are far more fields that 'data' includes, however, limiting it to this context
 helps illustrate the principles.
 
@@ -30,7 +30,7 @@ very fast. When working on data processing or even collection strategies, I find
 people will behave in some way that fits my biases. This is usually tempered with a moment of sonder a little while later
 and I realize that each and every person has a life as rich, unique and invigorating as mine, so the way I handle data
 needs to accommodate for that. Now we can structure technologies to only allow for certain use patterns, but even then, 
-someone will fit those patterns and still throw your assumptions out of the window. This uniqueness is a principle reason
+someone will fit those patterns and still throw your assumptions out of the window. This uniqueness is a principal reason
 why our data should not be treated as a commodity.
 
 The more obvious starting point when speaking about data is privacy. As a younger person who is perhaps expected 
