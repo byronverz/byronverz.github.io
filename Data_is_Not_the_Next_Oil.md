@@ -8,26 +8,41 @@ easy to understand how data could make organizations and people wealthier, and h
 Now I am in no way implying that Mr. Humby is to blame for the unscrupulous developments that has plagued 
 much of Big Tech, simply that the phrase has played the role of the scapegoat for many a nefarious character. 
 
+I would like to preface this by saying that when I refer to 'data' in this piece, I am referring to data generated or 
+measured off of people. Human actions that generate measured information representing some aspect of a person, action
+or behaviour. I realize that there are far more fields that 'data' includes, however, limiting it to this context
+helps illustrate the principles.
+
 So, is data the next oil? No. At least I hope the world and technology leaders do not limit it to the primitive 
 industrialisations of oil or any physical resource for that matter. First, let us address what most articles 
-that focus on this quote, just for a bit of background. The quality of data is massively important. Having 
+that focus on this quote might argue, just for a bit of background. The quality of data is massively important. Having 
 petabytes of customer data is useless if it cannot be processed and understood, either by a human or nowadays, 
 by some algorithmic modelling. This is why data infrastructure and developments in data management have grown 
 so massively. Just look at the scope of offerings from AWS, Azure or Google Cloud for data reporting and storage
- and have a look at when these frankly saturated products groups came to be. I believe a large reason for this 
- is the analogy. Raw oil is useless, so we need refineries and data followed suit. This part of the analogy, 
- the most simple and obvious relation, plays nicely in the minds of business leaders as it should, it makes 
- sense. But let’s get into why data is not the next oil because it really is so much more complex.
- 
-The most obvious starting point when speaking about data is privacy. As a younger person who is perhaps expected 
+and have a look at when these frankly saturated products groups came to be. I believe a large reason for this 
+is the analogy. Raw oil is useless, so we need refineries and data followed suit. This part of the analogy, 
+the most simple and obvious relation, plays nicely in the minds of business leaders as it should, it makes 
+sense. It provides models that can be mimicked from other industries, which manifests itself as products and revenue. 
+But let’s get into why data is not the next oil because it really is so much more complex.
+
+Firstly, data (in the context of this article) represents people. When you deal with people, things get very complicated
+very fast. When working on data processing or even collection strategies, I find myself absent mindedly assuming that 
+people will behave in some way that fits my biases. This is usually tempered with a moment of sonder a little while later
+and I realize that each and every person has a life as rich, unique and envigorating as mine, so the way I handle data
+needs to accommodate for that. Now we can structure technologies to only allow for certain use patterns, but even then, 
+someone will fit those patterns and still throw your assumptions out of the window. This uniqueness is a principle reason
+why our data should not be treated as a commodity.
+
+The more obvious starting point when speaking about data is privacy. As a younger person who is perhaps expected 
 to give up all my privacy and data for an Instagram feed and momentary hits of dopamine, I like to think I am 
 more conscious of the impacts and invasions of data collection than most in my generation. For starters I do 
 not believe the trade of addiction for private data is a fair one and most people would agree, however, it is
 one made billions of times every day. So, in that sense, data is also like oil but instead of raping the earth
 when we take oil out of the ground and then suffocating it when we burn it, we invade the privacy of users to
-gather data and then give them addiction and mental health issues when we use the data. These two steps alone 
-should illustrate how much more complex the data problem is compared to oil. There are essentially as many unique 
-impacts and possible issues that could stem from immoral data collection and usage as there are users of the service.
+gather data and then give them addiction and mental health issues when we use the data to show them clickable feeds
+or advertising. These two steps alone should illustrate how much more complex the data problem is compared to oil. 
+There are essentially as many unique impacts and possible issues that could stem from immoral data collection and 
+usage as there are users of the service and treating these users as commodity will only cripple your base.
    
 The discussion around data privacy and the impact on data collection and usage will probably live on in the zeitgeist
  for many more years to come, but it emphasises the point in the first paragraph. The framing of data as oil has 
@@ -35,7 +50,9 @@ The discussion around data privacy and the impact on data collection and usage w
  
 The next point that is not spoken about enough is ownership. Currently, most countries that want to stick with the 
 times have published acts or regulations stating you own the personal data you generate; however, service providers 
-ultimately have control over that data. This could mean selling your data, allowing governments and law enforcement 
+ultimately have control over that data. You may be able to request the deletion of your data from storage, but the
+insight or report that your data helped generate when aggregated with others, that's never yours. This could mean 
+selling your data (or at least the insights it generates), allowing governments and law enforcement 
 to peer into what you generate without your knowing and often without any probable cause. So, do you really own it 
 if you cannot refuse these use cases? This point can really expand into multiple pages, so instead I implore you to
 ponder on the idea of “owning your data” and if you truly do feel like you own the location data you generate 
